@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player/PlayerAttributes.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Enemy AI/DemonTargeting.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/PlayerAttributes.cs" Line="87" Column="55" />
+      <File FileName="Assets/Scripts/Player/PauseMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/PenanceMotion.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy AI/EnemyAttributes.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/ThirdPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Other/Screenshot.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
